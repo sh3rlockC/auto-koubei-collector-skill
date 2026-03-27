@@ -1,5 +1,10 @@
 # auto-koubei-collector-skill
 
+[![Release](https://img.shields.io/github/v/release/sh3rlockC/auto-koubei-collector-skill.)](https://github.com/sh3rlockC/auto-koubei-collector-skill./releases)
+[![Downloads](https://img.shields.io/github/downloads/sh3rlockC/auto-koubei-collector-skill./total)](https://github.com/sh3rlockC/auto-koubei-collector-skill./releases)
+[![License](https://img.shields.io/github/license/sh3rlockC/auto-koubei-collector-skill.)](https://github.com/sh3rlockC/auto-koubei-collector-skill./blob/main/LICENSE)
+
+
 一个可复用的 OpenClaw Skill，用于从汽车之家车型口碑页批量采集“最满意 / 最不满意”评价，并导出 Excel。
 
 ## 功能
