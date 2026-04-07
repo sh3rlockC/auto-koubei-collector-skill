@@ -51,8 +51,10 @@ python3 skill/scripts/export_autohome_koubei.py \
 
 ## Release 内容
 
+每个 Release 默认包含：
+
 - `.skill` 包
-- GitHub 自动生成源码包
+- GitHub 自动生成的源码压缩包
 
 ## License
 
